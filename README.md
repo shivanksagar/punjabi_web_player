@@ -1,2 +1,2 @@
-# punjabi_web_player
+# punjabi web player
 A website loading old punjabi songs playlists 
