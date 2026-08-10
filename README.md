@@ -1,4 +1,4 @@
-# lofi drift — ambient radio
+# ambient radio
 
 A nostalgic, full-screen lo-fi ambient music player built with Next.js (App Router) + Tailwind CSS.
 
